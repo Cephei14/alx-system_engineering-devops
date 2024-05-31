@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Below is the command to display the PID with more infos
+
+pgrep -l bash

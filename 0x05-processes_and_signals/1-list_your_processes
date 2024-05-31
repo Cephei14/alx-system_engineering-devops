@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Below is the command to display the running Processes
+
+ps -a -u -f -x
